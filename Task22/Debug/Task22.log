@@ -1,0 +1,10 @@
+﻿  GeneticAlgo.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task22\task22\geneticalgo.h(11): warning C4091: typedef : пропускается слева от "point", когда ни одна переменная не объявлена
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task22\task22\geneticalgo.h(17): warning C4091: typedef : пропускается слева от "T_BestVal", когда ни одна переменная не объявлена
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task22\task22\geneticalgo.cpp(84): warning C4101: it: неиспользованная локальная переменная
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task22\task22\geneticalgo.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task22\task22\geneticalgo.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task22\task22\geneticalgo.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task22\task22\geneticalgo.cpp(244): warning C4018: <: несоответствие типов со знаком и без знака
+  Task22.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task22\Debug\Task22.exe
+  Task22.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task22\Debug\Task22.pdb (Partial PDB)
